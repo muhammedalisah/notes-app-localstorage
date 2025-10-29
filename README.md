@@ -38,3 +38,6 @@ load();
 </script>
 </body>
 </html>
+# javascript-calculator.
+README.md
+git clone https://github.com/muhammedalisah/javascript-calculator.git
