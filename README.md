@@ -41,4 +41,4 @@ load();
 # javascript-calculator.
 README.md
 
-git clone https://github.com/muhammedalisah/javascript-calculator.gitgit clone https://github.com/muhammedalisah/javascript-calculator.git
+git clone https://github.com/Muhammedalisah/javascript-calculator.gitgit clone https://github.com/muhammedalisah/javascript-calculator.git
